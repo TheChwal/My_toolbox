@@ -6,7 +6,8 @@ def factorial(n):
     return n * factorial(n - 1)
 
 def count_down(n):
-    print(n)
-    if n > 0:
-        return count_down(n-1)
+    count=[]
+    for i in range(n+1):
+        count.append(n-i)
+    return count
     
