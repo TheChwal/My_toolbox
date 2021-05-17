@@ -1,4 +1,4 @@
-from My_toolbox.lib import *
+from mytoolbox.lib import *
 
 
 def test_factorial():
