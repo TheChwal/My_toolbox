@@ -1,1 +1,1 @@
-web: pip install . -U && My_toolbox-run
+web: My_toolbox-run
