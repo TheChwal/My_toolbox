@@ -1,1 +1,1 @@
-web: aaa
+web: pip install . -U && aaa
