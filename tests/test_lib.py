@@ -1,6 +1,5 @@
-from My_toolbox.My_toolbox.lib import count_down
-from typing import Counter
 from My_toolbox.lib import *
+
 
 def test_factorial():
     assert factorial(6) == 720
